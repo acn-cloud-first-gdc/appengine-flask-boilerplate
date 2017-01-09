@@ -1,0 +1,4 @@
+env_variables:
+
+  APP_SPOT_ENVIRONMENT: 'dev'
+

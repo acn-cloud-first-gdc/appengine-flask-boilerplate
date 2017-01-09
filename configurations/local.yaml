@@ -1,0 +1,5 @@
+env_variables:
+
+  APP_SPOT_ENVIRONMENT: 'local'
+  APP_ENGINE_INBOUND_HEADER: 'X-Appengine-Inbound-Appid'
+

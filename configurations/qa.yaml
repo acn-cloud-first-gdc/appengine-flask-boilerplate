@@ -1,0 +1,4 @@
+env_variables:
+
+  APP_SPOT_ENVIRONMENT: 'qa'
+  APP_ENGINE_INBOUND_HEADER: 'X-Appengine-Inbound-Appid'

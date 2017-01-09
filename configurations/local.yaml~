@@ -1,0 +1,12 @@
+env_variables:
+
+  APP_SPOT_ENVIRONMENT: 'local'
+  APP_ENGINE_INBOUND_HEADER: 'X-Appengine-Inbound-Appid'
+  ALLOWED_APP_ENGINE_IDS: ['acn-morri-jml-dev']
+
+  AUDIT_SERVICE_QUEUE: 'audit-service-queue'
+  AUDIT_SERVICE_TOPIC: 'projects/acn-audit-dev/topics/audit-service-logging'
+
+  ERROR_EMAIL_SUBJECT: ' ERROR: IMMEDIATE ACTION REQUIRED'
+  FROM_EMAIL: 'mailer@acn-epayslips.appspotmail.com'
+  TO_EMAIL: 'cloudfirst.email.test@gmail.com'
